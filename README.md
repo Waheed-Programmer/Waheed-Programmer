@@ -2,7 +2,7 @@
 ## I am Waheed Arshad
 
 
-- 🔭 I’m currently working on ** Asp.Net MVC,  
+- 🔭 I’m currently working on ** Asp.Net MVC **  
 - 🌱 I’m currently learning Angular Web Framework
 - 🤔 I’m looking for help with Asp.Net Developer
 
