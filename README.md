@@ -7,7 +7,7 @@
 - 🤔 I’m looking for help with **Asp.Net Developer**
 
 
-- 👨‍💻 check my website : http://waheed.me/Resume/
+<!-- - 👨‍💻 check my website : http://waheed.me/Resume/ -->
 
 
 ### Connect me at here
