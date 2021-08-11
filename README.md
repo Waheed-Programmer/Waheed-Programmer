@@ -21,5 +21,5 @@
 
 ## Here My Github Stats
 
-<span> <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Programmer&show_icons=true" alt="Waheed-Programmer" /> </span>
+<span> <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Programmer&show_icons=true&count_private=true" alt="Waheed-Programmer" /> </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed-Programmer)</span>
