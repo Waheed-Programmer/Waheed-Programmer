@@ -20,7 +20,7 @@
 <span>
 <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Waheed-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="Waheed-Programmer" /> </p>
-## Here My Github Stats
+## Waheed Github Stats
 
 <span> <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Programmer&show_icons=true&count_private=true" alt="Waheed-Programmer" /> </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed-Programmer)</span>
