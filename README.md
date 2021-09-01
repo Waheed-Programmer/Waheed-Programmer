@@ -1,6 +1,6 @@
 ### Hi there 👋
-## I am Waheed Arshad
 
+<h1 align="center">I am Waheed Arshad</h1>
 
 - 🔭 I’m currently working on **Asp.Net MVC**  
 - 🌱 I’m currently learning **Angular Web Framework**
