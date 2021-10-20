@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Dev 👋
 
 <h1 align="center">I am Waheed Arshad</h1>
 
