@@ -2,6 +2,7 @@
 
 <h1 align="center">I am Waheed Arshad</h1>
 
+-🎓 I'm a final year student of COMPUTER SCience at COMSATS University Islamabad, Pakistan
 - 🔭 I’m currently working on **Asp.Net MVC**  
 - 🌱 I’m currently learning **Angular Web Framework**
 - 🤔 I’m looking for help with **Asp.Net Developer**
