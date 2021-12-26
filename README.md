@@ -25,6 +25,13 @@
 
 <span> <img src="https://github-readme-stats.vercel.app/api?username=Waheed-Programmer&show_icons=true&count_private=true" alt="Waheed-Programmer" /> </span>
 <span> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Waheed-Programmer)</span>
+ <div  align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=Waheed-Programmer&theme=light" /></div>
+<br/> 
+
+<div  align="center"> <img src="https://github.com/Waheed-Programmer/Waheed-Programmer/blob/output/github-snake.gif" /></div>
+
+<br/>
+ 
 
   
 
