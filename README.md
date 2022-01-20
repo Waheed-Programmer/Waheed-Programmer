@@ -2,7 +2,7 @@
 
 <h1 align="center">I am Waheed Arshad</h1>
 
-- 🎓 I did complete my Graduation in **COMPUTER SCIENCE** at COMSATS University Islamabad, Pakistan
+- 🎓 I did complete my Graduation in **Bachelor of COMPUTER SCIENCE** from COMSATS University Islamabad, Pakistan
 - 🔭 I’m currently working on **Asp.Net MVC**  
 - 🌱 I’m currently learning **Angular Web Framework**
 - 🤔 I’m looking for help with **Asp.Net Developer**
