@@ -1,6 +1,6 @@
 ### Hi Dev 👋
 
-<h1 align="center">I am Waheed Arshad</h1>
+<h1 align="center">I Am Waheed Arshad</h1>
 
 - 🎓 I did complete my Graduation in **Bachelor of COMPUTER SCIENCE** from COMSATS University Islamabad, Pakistan
 - 🔭 I’m currently working on **Asp.Net MVC**  
