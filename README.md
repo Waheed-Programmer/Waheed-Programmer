@@ -34,7 +34,12 @@
 <!-- <div  align="center"> <img src="https://github.com/Waheed-Programmer/Waheed-Programmer/blob/output/github-snake.gif" /></div>
 
 <br/> -->
- 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Waheed-Programmer&show_icons=true&locale=en&layout=compact" alt="Waheed-Programmer" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Waheed-Programmer&show_icons=true&locale=en" alt="Waheed-Programmer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Programmer&" alt="Waheed-Programmer" /></p>
+
 
   
 
