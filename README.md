@@ -17,9 +17,9 @@
 <!-- &nbsp;
 
 
-<a href="#" ><img src="images/Facebook-logo.png" width="30" height="30" /> -->
+<a href="#" ><img src="images/Facebook-logo.png" width="30" height="30" /></a>
 <!-- &nbsp;
-<a href="#" ><img src="images/insta.png" width="30" height="30" /> -->
+<a href="#" ><img src="images/insta.png" width="30" height="30" /></a>
 <span>
 <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=Waheed-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="Waheed-Programmer" /> </p>
