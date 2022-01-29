@@ -11,7 +11,7 @@
 <!-- - 👨‍💻 check my website : http://waheed.me/Resume/ -->
 
 
-### Connect me at here
+<!-- ### Connect me at here
 
 <span><a href="https://www.linkedin.com/in/muhammad-waheed-0b2a16176/" ><img src="images/linkedin.png" width="30" height="30" /></a>
 <!-- &nbsp;
@@ -47,3 +47,4 @@
 
 
 
+ -->
