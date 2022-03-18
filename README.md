@@ -2,8 +2,8 @@
 
 <h1 align="center">I Am Waheed Arshad</h1>
 
-- 🎓 I did complete my Graduation in **Bachelor of COMPUTER SCIENCE** from COMSATS University Islamabad, Pakistan
-- 🔭 I’m currently working on **Asp.Net MVC and Asp.Net Core**  
+- 🚀 .Net Developer
+- 🔭 I’m currently working on **.Net MVC - .Net Core, RestfullAPI**  
 - 🌱 I’m currently learning **Angular Web Framework**
 - 🤔 I’m looking for help with **Asp.Net Developer**
 
