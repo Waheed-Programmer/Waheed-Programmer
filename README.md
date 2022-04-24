@@ -6,10 +6,10 @@
 		   <img src="https://img.shields.io/github/followers/Waheed-Programmer?label=Followers" alt="Waheed-Programmer" />
 </p>
 
-- 🚀 .Net Developer
-- 🔭 I’m currently working on **.Net MVC - .Net Core, RestfullAPI**  
-- 🌱 I’m currently learning **Angular Web Framework**
-- 🤔 I’m looking for help with **Asp.Net Developer**
+- 🚀 `.Net Developer`
+- 🔭 I’m currently working on `.Net MVC`  `.Net Core`, `RestfullAPI`  
+- 🌱 I’m currently learning `Angular Web Framework`
+- 🤔 I’m looking for help with `Asp.Net Developer`
 - 📫 How to reach me **waheedprogramer@outlook.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
@@ -70,8 +70,8 @@
     <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%231572B6.svg?style=plastic&logo=bootstrap&logoColor=white">
   </a>
   &emsp;
-  <a href="https://reactjs.org/" target="_blank">
-    <img alt="react" src="https://img.shields.io/badge/react%20-%23E34F26.svg?style=plastic&logo=react&logoColor=white">
+  <a href="https://angular.io/" target="_blank">
+    <img alt="angular" src="https://img.shields.io/badge/angular%20-%23E34F26.svg?style=plastic&logo=angular&logoColor=white">
   </a>
 </p>
 
