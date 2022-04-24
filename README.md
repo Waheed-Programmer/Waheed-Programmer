@@ -29,7 +29,8 @@
 ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Waheed-Programmer&theme=algolia" /></p>
 <br>
-## 🛠️ My Skills
+🛠️ <b>My Skills</b>
+<hr>
 
 ### 🔵 Programming Languages
 
@@ -112,10 +113,11 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-----
-<br/>
 
-:trophy: <b>Git profile Trophies</b>
+ <hr>
+<summary>:trophy: <b>Git profile Trophies</b></summary>
+  <br/>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Waheed-Programmer&layout=compact&theme=algolia" alt="Waheed" /></a> </p>
 
