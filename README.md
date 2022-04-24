@@ -114,7 +114,8 @@
   </p>
 ----
 <br/>
-## :trophy: Git profile Trophies
+
+:trophy: <b>Git profile Trophies</b>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Waheed-Programmer&layout=compact&theme=algolia" alt="Waheed" /></a> </p>
 
