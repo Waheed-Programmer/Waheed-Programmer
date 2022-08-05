@@ -1,8 +1,7 @@
 ### Hi Dev 👋
 
 <h1 align="center">I Am Waheed Arshad</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Waheed-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="Waheed-Programmer" />
-		  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Waheed-Programmer&label=Profile%20views&color=0e75b6&style=flat" alt="Waheed-Programmer" />	  
 		   <img src="https://img.shields.io/github/followers/Waheed-Programmer?label=Followers" />
 </p>
 
