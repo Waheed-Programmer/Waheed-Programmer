@@ -10,9 +10,8 @@
 - 🌱 I’m currently learning `Angular Web Framework`
 - 🤔 I’m looking for help with `Asp.Net Developer`
 - 📫 How to reach me **waheedprogramer@outlook.com**
-- 🔭 I’m currently working `@ excellence delivered (exd) pvt ltd`
 - :nerd_face: Always `learning new things`
-<!-- - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`. -->
+- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 
 <br>
 
