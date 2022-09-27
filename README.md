@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on `.Net MVC`  `.Net Core`, `RestfullAPI`  
 - 🌱 I’m currently learning `Angular Web Framework`
 - 🤔 I’m looking for help with `Asp.Net Developer`
-- 📫 How to reach me **waheedprogramer@outlook.com**
+- 📫 How to reach me **waheedarshad239@gmail.com**
 - :nerd_face: Always `learning new things`
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`.
 
